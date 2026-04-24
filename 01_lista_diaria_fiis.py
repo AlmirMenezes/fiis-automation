@@ -4,6 +4,10 @@ import pandas as pd
 import time
 from datetime import datetime
 
+import os
+
+HISTORICO_FILE = "fiis_historico.csv"
+
 BASE_URL = "https://investidor10.com.br/fiis/"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -46,6 +50,30 @@ def request_com_retry(url, tentativas=3):
 
     return None
 
+
+def atualizar_historico(df_atual):
+    if os.path.exists(HISTORICO_FILE):
+        df_hist = pd.read_csv(HISTORICO_FILE, sep=";", decimal=",")
+        
+        df_total = pd.concat([df_hist, df_atual], ignore_index=True)
+        
+        # 🔥 remove duplicados (importante!)
+        df_total = df_total.drop_duplicates(
+            subset=["data_coleta", "ticker"],
+            keep="last"
+        )
+    else:
+        df_total = df_atual
+
+    df_total.to_csv(
+        HISTORICO_FILE,
+        index=False,
+        sep=";",
+        decimal=",",
+        encoding="utf-8-sig"
+    )
+
+    return df_total
 
 def scrape_pagina(page):
     url = f"{BASE_URL}?page={page}"
@@ -134,3 +162,7 @@ df_fiis.to_csv(
     sep=";",
     decimal=","
 )
+
+
+# 👉 depois do scraping
+df_historico = atualizar_historico(df_fiis)
