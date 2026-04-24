@@ -24,7 +24,7 @@ jobs:
 
       - name: Executar script
         run: |
-          python fiis_script.py
+          python 01_lista_diaria_fiis.py
 
       - name: Salvar resultado no repositório
         run: |
