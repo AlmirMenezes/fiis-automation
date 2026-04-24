@@ -5,6 +5,9 @@ on:
     - cron: '0 22 * * 1-5'  # seg a sex às 19h Brasil
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   executar:
     runs-on: ubuntu-latest
@@ -20,12 +23,19 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install pandas requests beautifulsoup4 lxml
+          pip install pandas requests beautifulsoup4 lxml cloudscraper
 
-      - name: Executar script
+      # 🔹 1. Gera lista de FIIs
+      - name: Executar lista diária
         run: |
           python 01_lista_diaria_fiis.py
 
+      # 🔹 2. Gera detalhes dos FIIs
+      - name: Executar detalhes dos FIIs
+        run: |
+          python 03_detalhes_fiis.py
+
+      # 🔹 3. Salvar tudo no repositório
       - name: Salvar resultado no repositório
         run: |
           git config --global user.name "github-actions"
