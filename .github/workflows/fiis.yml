@@ -2,7 +2,7 @@ name: FIIs Diário
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # 09:00 Brasil
+    - cron: '0 22 * * 1-5'  # seg a sex às 19h Brasil
   workflow_dispatch:
 
 jobs:
