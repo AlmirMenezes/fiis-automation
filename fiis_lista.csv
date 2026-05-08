@@ -1,272 +1,274 @@
 ﻿data_coleta;ticker;descricao;patrimonio;p_vp;dy;dy_5anos;liquidez;tipo;segmento
-2026-05-07;KNCR11;Kinea Rendimentos Imobiliários Fundos;10,96 B;1,04;13,72;11,39;18,38 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;ISNT11;Itaú Isento Março 28 Fic Fi-Infra;7,62 B;1,01;;;11,59 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;KNIP11;Kinea Índice De Preços Fundo;7,48 B;1,0;10,13;11,77;11,34 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;HGLG11;Pátria Log;7,03 B;0,94;8,45;8,6;15,89 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;ISEN11;Itaú Isento Março 29 Fic Fi De Infraestrutura;6,74 B;1,01;;;4,68 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;XPML11;Xp Malls Fundos;6,47 B;1,0;9,96;8,8;17,11 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;TRXF11;Trx Real Estate;6,24 B;0,92;12,91;10,57;21,31 M;Fundo de Tijolo;Híbrido
-2026-05-07;BTLG11;Btg Pactual Logística;5,46 B;1,01;9,18;8,77;10,64 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;KNRI11;Kinea Renda Imobiliária;4,61 B;1,03;7,39;7,59;6,27 M;Fundo de Tijolo;Híbrido
-2026-05-07;XPLG11;Xp Log;4,45 B;0,94;9,84;8,63;5,37 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;MXRF11;Maxi Renda;4,32 B;1,06;12,02;11,69;13,42 M;Fundo de Papel;Híbrido
-2026-05-07;FTCE11B;Opportunity;3,90 B;0,96;;4,78;2,92 M;Outro;Híbrido
-2026-05-07;ISTT11;Itaú Isento Setembro 29 Fic Fi De Infra Rf;3,71 B;1,03;;;3,62 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;VISC11;Vinci Shopping Centers;3,36 B;0,95;8,84;8,41;6,85 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;CPTS11;Capitania Securities Ii;3,28 B;0,87;13,5;12,21;7,51 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;KNHY11;Kinea High Yield Cri;3,09 B;1,01;13,31;13,18;2,40 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;HGRU11;Pátria Renda Urbana;3,00 B;1,02;9,48;9,1;3,65 M;Fundo Misto;Híbrido
-2026-05-07;IRIM11;Iridium;2,94 B;0,79;14,63;11,76;3,75 M;Fundo de Papel;Híbrido
-2026-05-07;KDIF11;Kinea Fi - Infra;2,93 B;1,02;12,16;9,94;3,21 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;PVBI11;Vbi Prime Properties;2,93 B;0,7;7,21;7,61;4,78 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;CDII11;Sparta Infra Cdi Fic Fi-Infra;2,81 B;1,0;17,09;14,03;6,18 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;GARE11;Guardian Real Estate;2,73 B;0,88;12,03;10,77;14,04 M;Fundo de Tijolo;Híbrido
-2026-05-07;HGBS11;Hedge Brasil Shopping;2,67 B;0,99;9,25;8,29;4,95 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;TGAR11;Tg Ativo Real;2,61 B;0,58;16,83;13,14;7,87 M;Fundo de Desenvolvimento;Híbrido
-2026-05-07;GGRC11;Zagros Renda Imobiliária;2,39 B;0,91;11,81;10,01;8,79 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;RECR11;Fii Rec Recebíveis Imobiliários;2,35 B;0,93;13,19;13,31;2,67 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;HCTR11;Hectare Ce;2,34 B;0,16;21,53;14,73;850,78 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;BRCR11;Btg Pactual Corporate Office;2,28 B;0,55;10,56;9,7;1,16 M;Fundo de Tijolo;Híbrido
-2026-05-07;HSML11;Hsi Malls;2,22 B;0,9;8,78;9,09;4,07 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;KNUQ11;Kinea Unique Hy Cdi Fundo De Investimento Imob;2,19 B;1,03;14,64;11,17;4,00 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;KNCA11;Kinea Crédito Agro Fiagro;2,19 B;0,93;13,99;13,66;3,08 M;Outro;Fiagros
-2026-05-07;JSRE11;Js Real Estate Multigestão - Fii;2,12 B;0,61;9,26;8,16;2,16 M;Outro;Híbrido
-2026-05-07;BRCO11;Bresco Logística;2,10 B;1,02;9,08;8,49;10,42 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;JURO11;Sparta Infra Fic Fi-Infra;2,09 B;1,0;11,63;13,25;3,73 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;GZIT11;Gazit Malls;2,04 B;0,48;19,67;12,38;477,23 K;Fundo Misto;Híbrido
-2026-05-07;BTHF11;Btg Pactual Real Estate Hedge Fund;2,03 B;0,95;12,22;7,42;2,85 M;Fundo de Papel;Híbrido
-2026-05-07;KNHF11;Kinea Hedge Fund Fdo De Inv Imob;1,99 B;0,98;12,12;9,59;3,68 M;Fundo Misto;Híbrido
-2026-05-07;LVBI11;Vbi Logístico;1,94 B;0,91;8,24;8,58;3,02 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;HFOF11;Hedge Top;1,78 B;0,85;10,25;9,95;2,40 M;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;KNSC11;Kinea Securities;1,78 B;1,04;12,34;12,35;4,74 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PFIN11;Perfin Apollo Energia Fip Em Infraestrutura;1,76 B;0,61;49,99;6,44;2,48 M;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;HGRE11;Patria Escritórios;1,74 B;0,88;9,63;8,68;2,11 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;RZTR11;Riza Terrax;1,73 B;0,98;13,47;12,54;2,65 M;Outro;Híbrido
-2026-05-07;MCLO11;Mauá Capital Logística;1,72 B;0,72;11,35;7,96;1,36 M;Outro;Logístico / Indústria / Galpões
-2026-05-07;VILG11;Vinci Logística;1,69 B;0,9;8,86;8,29;3,16 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;RBVA11;Rio Bravo Renda Varejo;1,67 B;0,91;11,07;11,54;1,67 M;Fundo de Tijolo;Híbrido
-2026-05-07;TVRI11;Tivio Renda Imobiliária Fundo De Investimento Imob;1,66 B;0,9;13,33;12,12;1,06 M;Fundo de Tijolo;Agências Bancárias
-2026-05-07;RURA11;Itaú Asset Rural Fiagro;1,65 B;0,86;14,97;12,43;3,42 M;Outro;Fiagros
-2026-05-07;PMLL11;Genial Malls;1,64 B;0,92;10,03;8,74;4,59 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;MCCI11;Mauá Capital Recebíveis Imobiliários;1,61 B;1,01;12,14;11,88;4,56 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RBRR11;Rbr Rendimento High Grade;1,59 B;0,87;11,84;11,36;3,96 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PCIP11;Patria Crédito Imobiliário Índice De Preços Fii;1,58 B;0,93;6,87;3,13;2,80 M;Fundo de Papel;Híbrido
-2026-05-07;IFRA11;Itau Fdo Inv Cotas Fdo Incent De Inv Infr. Rf Cp;1,55 B;0,98;12,11;11,0;1,96 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;HGCR11;Cghg Recebíveis Imobiliários;1,52 B;1,0;12,25;12,05;3,58 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;BDIF11;Fundo Em Infraestrutura Btg Pactual Dívida Infra;1,51 B;0,89;13,11;12,39;2,93 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;ALZR11;Alianza Trust Renda Imobiliária;1,49 B;1,0;9,54;8,98;2,09 M;Fundo de Tijolo;Híbrido
-2026-05-07;RBRX11;Rbr Plus Multiestratégia Real Estate;1,44 B;0,89;12,43;12,68;12,91 M;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;VGIR11;Valora Re Iii;1,43 B;1,01;15,47;13,11;4,14 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;VGHF11;Valora Hedge;1,42 B;0,69;15,69;13,4;2,74 M;Fundo de Papel;Híbrido
-2026-05-07;HSLG11;Hsi Logística;1,39 B;0,85;8,96;9,15;822,16 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;VCJR11;Vectis Juros Real;1,39 B;0,84;13,54;12,58;2,46 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PSEC11;Vbi Reits Fof;1,38 B;0,79;13,73;11,58;2,34 M;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;DEVA11;Devant Recebíveis Imobiliários;1,38 B;0,23;19,72;15,01;523,95 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;VRTA11;Fator Verita;1,32 B;0,91;13,25;12,15;1,31 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;CPTI11;Capitânia Infra Fic Fi-Infra Rf Cp;1,28 B;0,94;14,16;12,28;2,64 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;BROF11;Brpr Corporate Offices;1,28 B;0,56;10,59;10,43;463,03 K;Fundo de Tijolo;Híbrido
-2026-05-07;RBRY11;Rbr Private Crédito Imobiliário;1,27 B;0,92;15,28;12,99;5,14 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;GTWR11;Green Towers;1,22 B;0,83;12,72;11,52;672,14 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;GSFI11;General Shop E Outlets Do Brasil;1,21 B;0,89;;;118,28 K;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;URPR11;Urca Prime Renda;1,21 B;0,27;16,03;16,0;517,37 K;Fundo de Papel;Outros
-2026-05-07;MCRE11;Mauá Capital Real Estate;1,14 B;0,94;13,78;12,94;3,07 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;BRZP11;Brz Infra Portos Fdo, Inv. Em Part. Infraestrutura;1,10 B;0,88;;;1,68 M;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;XPIE11;Xp Infra Ii Fdo De Inv Part Ie;1,09 B;0,68;13,28;8,26;922,96 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;CPSH11;Shoppings Aaa Fdo De Inv Imob;1,09 B;0,9;12,57;10,07;5,15 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;VGIP11;Valora Cri Índice De Preço;1,07 B;0,9;13,47;13,07;2,51 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;DIVS11;Sparta Infra Inflação Longa Fi-Infra;1,04 B;1,02;14,01;11,7;559,71 K;Fundo de Desenvolvimento;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;PICE11;Pátria Infraestrutura Energia;1,03 B;0,25;1,45;2,52;116,67 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;VGIA11;Valora Cra Fdo Inv Nas Cad Prod Agro;1,02 B;1,02;16,48;15,91;2,91 M;Outro;Fiagros
-2026-05-07;KORE11;Kinea Oportunidades Real Estate;1,02 B;0,68;17,09;11,7;2,08 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;IFRI11;Itaú Fic Fi Invest Finan Infra Cdi Rf Cp;1,02 B;0,99;15,78;10,8;1,15 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;KNOX11;Knox Debt Fdo. Invest. Part. Infraestrutura;1,01 B;1,01;5,56;4,97;445,61 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;BTCI11;Fii Btg Pactual Fundo De Cri;1,00 B;0,93;12,35;10,46;2,04 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RBRP11;Rbr Properties;994,38 M;0,63;9,32;8,33;1,29 M;Fundo de Tijolo;Outros
-2026-05-07;JCCJ11;Jhsf Capital Jardins;983,48 M;0,78;7,31;2,38;292,83 K;Fundo de Fundos;Fundo de Fundos
-2026-05-07;BBIG11;Fii Bbig;946,52 M;0,72;13,58;10,68;740,76 K;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;BPML11;Btg Pactual Shoppings;922,56 M;0,75;15,5;8,35;651,31 K;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;SNEL11;Suno Energias Limpas;899,33 M;1,05;14,04;10,09;3,92 M;Outro;Outros
-2026-05-07;VINO11;Vinci Offices;816,54 M;0,51;12,05;9,98;631,98 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;RZAK11;Riza Akin;778,30 M;0,97;15,58;14,98;1,39 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;HABT11;Habitat Ii;777,11 M;0,79;15,79;14,84;1,06 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PQAG11;Parque Anhanguera;777,09 M;0,95;10,93;8,98;691,39 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;XPCI11;Xp Credito Imobiliário;771,39 M;0,93;13,27;12,51;1,74 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RECT11;Fii Rec Renda Imobiliária;766,84 M;0,43;12,79;11,2;450,99 K;Outro;Híbrido
-2026-05-07;RVBI11;Vbi Reits Fof (Old);760,04 M;0,81;6,97;11,14;1,18 M;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;XPIN11;Invista Industrial;751,80 M;0,66;14,02;9,98;920,05 K;Fundo de Tijolo;Outros
-2026-05-07;RCRB11;Rio Bravo Renda Corporativa;735,57 M;0,71;8,29;7,25;1,37 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;JSAF11;Js Ativos Financeiros;725,67 M;0,83;13,04;10,68;1,58 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;CCME11;Canuma Capital Multiestratégia;720,78 M;0,86;11,16;8,3;276,17 K;Fundo Misto;Outros
-2026-05-07;BTAL11;Btg Pactual Agro Logística;692,45 M;0,78;12,62;10,64;768,06 K;Fundo de Tijolo;Outros
-2026-05-07;RZAG11;Fdo Inv Cadeias Prod Agro Riza Agro;678,87 M;0,91;16,63;12,78;1,43 M;Outro;Fiagros
-2026-05-07;RBRL11;Rbr Log;677,48 M;0,84;11,32;9,73;2,15 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;CPUR11;Classe Única Do Capitânia Hbc Renda Urbana;665,11 M;1,05;10,77;9,33;12,34 M;Outro;Híbrido
-2026-05-07;SNAG11;Suno Agro;654,38 M;1,04;14,53;11,05;2,30 M;Outro;Fiagros
-2026-05-07;KFOF11;Kinea Fii;654,10 M;0,89;11,33;10,28;1,03 M;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;MFII11;Mérito Desenvolvimento Imobiliário;646,54 M;0,61;21,79;13,8;2,42 M;Fundo de Desenvolvimento;Híbrido
-2026-05-07;TRBL11;Fdo De Invest Imob Tellus Rio Bravo Renda Logistic;625,33 M;0,94;10,23;9,77;1,09 M;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;TJKB11;Tjk Renda Imobiliária;604,56 M;0,49;13,42;10,43;879,12 K;Outro;Lajes Corporativas
-2026-05-07;VIGT11;Vinci Energia;602,20 M;0,77;4,49;8,4;678,32 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;ITRI11;Itaú Total Return Fii;598,97 M;0,9;12,18;10,47;1,03 M;Fundo Misto;Títulos e Valores Mobiliários
-2026-05-07;FATN11;Athena I;579,69 M;0,9;11,0;10,39;1,90 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;BODB11;Bocaina Infra;562,37 M;0,92;14,72;10,07;1,16 M;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;BCRI11;Banestes Recebíveis Imobiliários;533,54 M;0,73;15,89;13,62;431,06 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RZAT11;Riza Arctium Real Estate;533,31 M;0,78;12,46;14,17;655,88 K;Fundo de Tijolo;Híbrido
-2026-05-07;IBBP11;Invista Brazilian Business Park Fii;526,39 M;0,82;10,82;10,29;1,29 M;Fundo Misto;Logístico / Indústria / Galpões
-2026-05-07;CPOF11;Capitânia Office Fii - Fdo De Inv Imob;507,56 M;1,03;5,22;7,3;1,56 M;Fundo Misto;Híbrido
-2026-05-07;BINC11;Bradesco Fic Rf Infra Cdi Créd Priv;488,10 M;1,0;15,87;9,29;744,51 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;TOPP11;Rbr Top Offices Fii;481,17 M;0,62;15,37;7,76;612,01 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;TEPP11;Tellus Properties;480,27 M;0,91;12,29;9,58;1,92 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;INLG11;Inter Logístico Fii;479,81 M;0,66;12,07;9,85;321,35 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;VCRA11;Vectis Datagro Cr Agr;472,12 M;0,62;17,37;14,46;544,94 K;Outro;Fiagros
-2026-05-07;ADSH11;Ad Shopping Fundo De Investimento Imobiliário;466,70 M;1,05;0,75;0,75;26,02 M;Fundo Misto;Shoppings / Varejo
-2026-05-07;SARE11;Santander Renda De Aluguéis;464,92 M;0,94;1,09;8,45;831,29 K;Fundo Misto;Híbrido
-2026-05-07;HREC11;Hedge Recebíveis;459,80 M;0,93;12,17;11,73;170,58 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;CACR11;Cartesia Recebíveis Imobiliários;458,75 M;0,37;41,68;16,65;1,60 M;Fundo de Papel;Híbrido
-2026-05-07;AFHI11;Af Invest Cri;455,47 M;1,02;12,44;12,07;743,29 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;JMBI11;Jivemaua Bossanova;445,57 M;0,88;16,24;9,31;922,59 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;VRTM11;Fator Verità Multiestratégia;445,39 M;0,77;14,86;9,39;203,60 K;Outro;Híbrido
-2026-05-07;PATL11;Pátria Logística;444,52 M;0,73;10,99;10,65;495,33 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;XPCA11;Xp Crédito Agrícola;443,60 M;0,83;16,4;14,82;938,54 K;Outro;Fiagros
-2026-05-07;BDIV11;Btg Pactual Infraestrutura Dividendos;434,37 M;0,91;17,25;17,96;407,59 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;FCFL11;Campus Faria Lima;432,66 M;1,03;8,53;8,45;120,30 K;Fundo de Tijolo;Educacional
-2026-05-07;HTMX11;Fii Hotel Maxinvest;432,47 M;0,91;11,83;9,82;372,24 K;Fundo de Tijolo;Hotéis
-2026-05-07;ENDD11;Endurance Debt;429,77 M;1,08;9,13;7,14;305,82 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;FGAA11;Fg Agro Fdo De Invest;425,61 M;0,97;15,58;15,43;868,98 K;Outro;Fiagros
-2026-05-07;RINV11;Real Investor;423,38 M;1,0;12,1;10,76;285,97 K;Outro;Títulos e Valores Mobiliários
-2026-05-07;CLIN11;Clave Índices De Preços;423,01 M;0,95;13,02;9,64;1,02 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;AZIN11;Az Quest Infra-Yield Ii Fip-Ie;419,00 M;1,03;18,85;12,76;731,70 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;SNCI11;Suno Recebíveis Imobiliários;409,41 M;0,93;13,27;11,2;453,09 K;Outro;Títulos e Valores Mobiliários
-2026-05-07;KNDI11;Kinea Estrategia Infra;406,00 M;1,01;15,04;8,15;1,14 M;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;FIIB11;Industrial Do Brasil;404,77 M;0,78;8,96;8,64;288,01 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;TRXB11;Trx Real Estate Ii;401,32 M;1,82;15,56;12,08;5,76 M;Fundo de Desenvolvimento;Híbrido
-2026-05-07;ICRI11;Itaú Crédito Imobiliário Ipca;394,40 M;0,98;11,9;12,62;764,90 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;LASC11;Legatus Shoppings;387,98 M;0,86;10,42;8,66;3,21 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;BCIA11;Bradesco Carteira Imobiliária Ativa;383,87 M;0,9;11,06;10,22;607,64 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;BTRA11;Btg Pactual Terras Agrícolas;381,69 M;0,56;11,08;8,39;230,90 K;Outro;Fiagros
-2026-05-07;BBGO11;Bb Fundo De Invest De Crédito Fiagro;377,31 M;0,79;14,59;12,91;247,33 K;Outro;Fiagros
-2026-05-07;CXCO11;Caixa Imóveis Corporativos;374,90 M;0,77;12,29;11,11;146,97 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;AJFI11;Aj Malls;372,20 M;0,75;7,57;6,72;157,65 K;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;LIFE11;Life Capital;368,11 M;0,91;17,18;14,95;1,21 M;Outro;Outros
-2026-05-07;NEWL11;Newport Logística;366,57 M;0,8;11,21;11,13;231,88 K;Fundo de Tijolo;Híbrido
-2026-05-07;AIEC11;Autonomy Edifícios Corporativos;366,25 M;0,79;6,73;12,22;3,54 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;KISU11;Klima Fic Fundo Imobiliário Suno 30;366,21 M;0,82;12,43;10,59;478,18 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;BARI11;Barigui Rendimentos Imobiliários I;363,70 M;1,0;4,77;12,3;1,01 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PLAG11;Vbi Agro;360,48 M;0,96;9,84;10,78;11,16 M;Fundo Misto;Outros
-2026-05-07;AZPL11;Az Quest Panorama Logística Fii;360,34 M;0,9;12,9;10,21;422,46 K;Fundo Misto;Logístico / Indústria / Galpões
-2026-05-07;HPDP11;Hedge Shopping Parque Dom Pedro;357,49 M;0,82;8,56;6,78;5,47 M;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;PORD11;Polo Recebíveis Imobiliários Ii;355,59 M;0,87;14,09;13,18;488,25 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;MANA11;Manatí Capital Hedge Fund;354,07 M;1,0;14,04;12,34;1,24 M;Outro;Títulos e Valores Mobiliários
-2026-05-07;RPRI11;Rbr Premium Recebíveis Imobiliários;350,17 M;0,82;14,34;13,24;588,65 K;Fundo de Papel;Híbrido
-2026-05-07;SNFF11;Sunofofi - Fii;349,07 M;0,86;13,18;9,76;401,42 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;XPSF11;Xp Selection Fundo De Fundos;348,52 M;0,83;11,99;11,42;347,80 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;CYCR11;Cyrela Crédito;343,47 M;0,96;14,3;12,17;661,83 K;Fundo de Papel;Outros
-2026-05-07;KCRE11;Kinea Creditas;340,23 M;0,99;12,43;11,79;339,08 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PPEI11;Prisma Proton Energia;340,00 M;1,11;14,88;9,32;261,32 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;OUJP11;Ourinvest Jpp;327,86 M;0,86;15,27;13,67;353,12 K;Fundo de Papel;Híbrido
-2026-05-07;TRXY11;Trx Hedge Fund;316,10 M;0,97;15,55;7,99;175,95 K;Outro;Híbrido
-2026-05-07;HDOF11;Hedge Desenvolvimento Logístico;312,76 M;0,98;;;1,41 M;Fundo de Desenvolvimento;Lajes Corporativas
-2026-05-07;EGAF11;Ecoagro I Fdo Inv Cadeias Prod Agroind;310,62 M;0,94;18,34;16,27;1,08 M;Outro;Fiagros
-2026-05-07;WHGR11;Whg Real Estate;306,60 M;0,96;13,0;11,65;261,89 K;Fundo Misto;Híbrido
-2026-05-07;VGRI11;Valora Renda Imob Fundo De Inves Imob;306,59 M;0,75;20,67;17,45;1,13 M;Fundo de Tijolo;Híbrido
-2026-05-07;VSLH11;Versalhes Recebíveis Imobiliários;305,37 M;0,18;19,24;12,8;177,32 K;Fundo de Papel;Outros
-2026-05-07;NMKS11;Nm Ksm Log;302,93 M;1,06;;;1,27 M;Fundo de Papel;Logístico / Indústria / Galpões
-2026-05-07;VPPR11;V2 Prime Properties;302,67 M;0,53;;7,55;194,73 K;Fundo Misto;Outros
-2026-05-07;BBFO11;Bb Fundo De Fundos;302,43 M;0,95;13,22;11,44;542,99 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;SAPI11;Santander Papéis Imobiliários;295,84 M;0,92;15,62;9,76;312,71 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;XPID11;Xp Infra Debêntures;282,47 M;0,54;14,97;13,11;177,80 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;BPFF11;Brasil Plural Absoluto;279,19 M;0,86;6,53;10,79;305,22 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;BODI11;Bocaina Infra Cdi Fic Fi Infra Rf;278,01 M;0,99;2,22;2,22;259,98 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;GAME11;Guardian Multiestratégia I;273,65 M;0,93;12,96;10,81;227,93 K;Fundo de Papel;Outros
-2026-05-07;HGPO11;Cshg Prime Offices;270,34 M;1,0;;14,66;122,97 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;RBFM11;Rio Bravo Multiestratégia Fii;244,43 M;0,81;4,09;4,09;607,00 K;Fundo Misto;Híbrido
-2026-05-07;CRAA11;Sparta Fiagro Fdo Inv Nas Cad Prod Agro;240,86 M;1,0;14,59;13,33;653,41 K;Outro;Fiagros
-2026-05-07;GRUL11;Icatu Vanguarda Gru Logístico;238,15 M;0,93;11,99;9,26;286,07 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;RBED11;Rio Bravo Renda Educacional;235,52 M;0,94;;10,26;268,63 K;Fundo de Tijolo;Educacional
-2026-05-07;COPN11;Copérnico Fip Infra;232,52 M;0,51;;0,66;316,63 K;Outro;Fundo de Investimentos em Participações (FIP)
-2026-05-07;CJCT11;Cidade Jardim Continental Tower;231,52 M;0,88;4,49;2,67;640,14 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;CXAG11;Caixa Agências;231,30 M;0,7;11,74;11,29;213,26 K;Fundo de Tijolo;Agências Bancárias
-2026-05-07;VXXV11;Vx Xvi;227,09 M;1,59;;5,49;18,88 M;Fundo de Desenvolvimento;Outros
-2026-05-07;HSAF11;Hsi Ativos Financeiros;225,02 M;0,9;14,23;13,3;1,02 M;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;NSLU11;Hospital Nossa Senhora De Lourdes;224,39 M;1,09;16,07;10,07;120,83 K;Fundo de Tijolo;Hospitalar
-2026-05-07;BLMG11;Bluemacaw Logística;220,76 M;0,7;13,69;11,59;279,36 K;Fundo de Tijolo;Outros
-2026-05-07;HOFC11;Hedge Office Income;217,28 M;0,59;;8,18;108,99 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;JSCR11;Js Recebíveis Imobiliários;209,84 M;0,89;13,63;10,04;328,53 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;JGPX11;Jgp Crédito;208,20 M;0,7;16,96;14,43;328,98 K;Outro;Fiagros
-2026-05-07;VCRR11;Vectis Renda Residencial;208,16 M;0,59;9,11;9,67;289,60 K;Fundo de Tijolo;Outros
-2026-05-07;AAZQ11;Az Quest Fiagro;207,80 M;0,95;16,27;16,41;339,86 K;Outro;Fiagros
-2026-05-07;VIUR11;Vinci Imóveis Urbanos;206,25 M;0,34;28,97;11,11;987,30 K;Fundo Misto;Outros
-2026-05-07;BIDB11;Inter Fi-Infra;205,20 M;0,97;15,26;13,55;324,51 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;BLCA11;Bluemacaw Catuaí Triple A;204,56 M;0,77;6,5;8,61;1,47 M;Fundo Misto;Lajes Corporativas
-2026-05-07;HGFF11;Patria Imobiliário Fof;203,82 M;0,84;7,89;10,06;551,19 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;KOPA11;Kinea Oportunidades Agro I;202,69 M;0,89;24,37;10,5;204,87 K;Outro;Fiagros
-2026-05-07;FIGS11;General Shopping Fundo De Investimento;199,56 M;0,73;11,28;9,0;125,03 K;Fundo de Tijolo;Shoppings / Varejo
-2026-05-07;CPTR11;Capitania Agro Strategies;198,92 M;0,84;15,71;12,6;247,58 K;Outro;Fiagros
-2026-05-07;VCRI11;Vinci Credit;195,70 M;0,79;14,89;12,92;439,94 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;VINF11;Vinland Infraestrutura Fi Fif Debentures Infra;192,26 M;0,93;8,76;3,39;204,94 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;SPXS11;Spx Real Estate Multiestratégia;190,66 M;0,89;14,51;10,73;651,77 K;Outro;Híbrido
-2026-05-07;KIVO11;Kilima Volkano Recebíveis Imobiliários;190,22 M;0,74;17,87;15,63;541,39 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RBHG11;Rio Bravo Crédito Imobiliário High Grade;187,84 M;0,79;14,15;13,96;261,61 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;CYLD11;Cyrela Desenvolvimento Logístico Fii;187,63 M;0,65;;;106,44 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;AGRX11;Exes Araguaia;185,82 M;0,87;14,92;12,58;299,88 K;Outro;Fiagros
-2026-05-07;FIIP11;Rb Capital Renda I;185,19 M;0,69;12,26;9,84;505,14 K;Fundo de Tijolo;Híbrido
-2026-05-07;FIIP11B;Rb Capital Renda I (Old);184,00 M;0,81;;9,98;598,24 K;Fundo de Tijolo;Híbrido
-2026-05-07;HBCR11;Hbc Renda Urbana;183,03 M;1,21;10,8;9,74;5,75 M;Fundo Misto;Lajes Corporativas
-2026-05-07;ALZC11;Fii Alianzac;182,99 M;0,83;16,09;13,7;162,63 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PLCR11;Plural Recebíveis;175,91 M;0,94;4,48;11,98;612,26 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;ARRI11;Átrio Reit Recebíveis Imobiliários;173,65 M;0,68;18,31;14,62;383,35 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RBHY11;Rio Bravo Crédito Imobiliário High Yield;173,50 M;0,86;16,13;14,71;399,54 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;RZLC11;Riza Lecci;159,60 M;1,02;9,86;4,99;1,30 M;Fundo de Papel;Outros
-2026-05-07;GCRA11;Galápagos Recebíveis Do Agronegócio;153,88 M;0,62;14,85;14,93;283,66 K;Outro;Fiagros
-2026-05-07;FYTO11;Nch Brasil Recebíveis Imobiliários;151,65 M;0,88;14,22;14,05;142,19 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;BICE11;Brio Crédito Estruturado;149,43 M;0,68;7,38;8,28;1,65 M;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;NCHB11;Nch Brasil Recebíveis Imobiliários (Old);148,98 M;0,82;;11,77;109,74 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;BTML11;Barra Malls Fundo De Investimento Imobiliário;145,58 M;0,67;11,83;11,34;11,66 M;Fundo de Tijolo;Híbrido
-2026-05-07;SPDE11;Whg Finvest Sp Realty;144,12 M;0,69;;;138,33 K;Fundo de Desenvolvimento;Residencial
-2026-05-07;OUFF11;Ourinvest;142,52 M;0,78;;10,19;264,30 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;VVCO11;V2 Edifícios Corporativos;141,94 M;1,01;;1,79;5,58 M;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;EXES11;Exes;139,74 M;0,97;16,25;10,62;135,84 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;PMIS11;Paramis Hedge Fund;139,30 M;0,85;14,29;13,72;294,90 K;Outro;Híbrido
-2026-05-07;CXRI11;Caixa Rio Bravo;136,68 M;0,75;11,09;9,54;157,08 K;Fundo de Fundos;Híbrido
-2026-05-07;EQIN11;Nch Eqi High Yield Recebíveis Imobiliários;135,10 M;1,0;;25,77;365,15 K;Fundo de Papel;Outros
-2026-05-07;BRIX11;Brix;133,78 M;1,49;;;195,80 K;Fundo Misto;Outros
-2026-05-07;INRD11;Inter Residence;133,66 M;0,65;10,17;8,71;322,46 K;Fundo de Desenvolvimento;Residencial
-2026-05-07;GCRI11;Galapagos Recebíveis Imobiliários;131,09 M;0,76;14,73;14,26;300,97 K;Fundo de Papel;Títulos e Valores Mobiliários
-2026-05-07;NEXG11;Nex Crédito Fiagro Imobiliário;123,77 M;1,31;8,61;9,17;124,12 K;Fundo de Papel;Fiagros
-2026-05-07;SNFZ11;Suno Fazendas Fiagro – Imobiliário;119,35 M;0,99;11,59;6,11;399,65 K;Outro;Fiagros
-2026-05-07;RELG11;Rec Logística;115,60 M;0,83;12,93;8,23;299,68 K;Fundo Misto;Logístico / Indústria / Galpões
-2026-05-07;RSPD11;Rb Capital Desenvolvimento Residencial Iii;113,79 M;1,05;11,89;4,29;254,03 K;Fundo de Desenvolvimento;Outros
-2026-05-07;ALZM11;Alianza Multiestratégia;113,20 M;0,86;;9,55;205,61 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;NUIF11;Nu Fi-Infra;109,67 M;0,93;15,3;9,26;179,53 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;DVLP11;Speciale Real Estate Development;106,47 M;1,02;;;213,40 K;Fundo de Tijolo;Híbrido
-2026-05-07;SMRE11;Smart Real Estate;105,48 M;0,61;19,14;12,08;141,60 K;Outro;Outros
-2026-05-07;BIPD11;Brio Real Estate Iv Fii;105,12 M;1,04;6,98;4,82;155,08 K;Fundo Misto;Híbrido
-2026-05-07;MAXR11;Max Retail;105,02 M;0,64;6,82;11,61;243,35 K;Fundo de Tijolo;Outros
-2026-05-07;IAAG11;Inter Amerra - Fiagro;101,69 M;0,9;16,21;11,59;233,07 K;Outro;Fiagros
-2026-05-07;SUIN11;Sulamérica Infra Cdi Fi Fif Infra Renda Fixa;98,94 M;0,88;6,89;2,33;110,97 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;SPTW11;Sp Downtown Fundos;97,45 M;0,73;13,71;15,0;110,45 K;Fundo de Tijolo;Lajes Corporativas
-2026-05-07;DVFF11;Devant Fof Imobiliários;95,56 M;0,66;13,54;10,21;129,04 K;Fundo de Fundos;Híbrido
-2026-05-07;TMPS11;Itaú Tempus;93,71 M;0,81;13,1;9,37;246,61 K;Outro;Títulos e Valores Mobiliários
-2026-05-07;OIAG11;Ourinvest Innovation;88,50 M;0,95;14,92;13,74;142,10 K;Outro;Fiagros
-2026-05-07;ICNE11;Ícone Fii;84,72 M;1,37;14,08;22,51;1,00 M;Fundo de Desenvolvimento;Outros
-2026-05-07;RECM11;Rec Multiestratégia;81,09 M;0,77;18,35;13,47;376,94 K;Fundo de Papel;Híbrido
-2026-05-07;RBIF11;Rio Bravo Esg;77,98 M;0,86;15,86;9,8;255,17 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;LKDV11;Development V1;73,49 M;0,91;;;257,33 K;Fundo de Papel;Híbrido
-2026-05-07;ITIT11;Inter Teve Indice De Tijolo;72,16 M;0,96;9,62;9,2;170,52 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;SNID11;Suno Infra Debêntures Infra Renda Fixa Cp;71,67 M;1,13;13,33;11,98;198,08 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;SNME11;Suno Multiestratégia;70,44 M;1,0;15,2;9,69;143,95 K;Fundo Misto;Híbrido
-2026-05-07;CPFF11;Capitânia Reit Fof;67,46 M;1,12;;8,51;4,78 M;Fundo de Fundos;Híbrido
-2026-05-07;CCVA11;Canuma Capital Renda Varejo;64,14 M;0,87;1,5;1,5;175,12 K;Outro;Hospitalar
-2026-05-07;AERO11;Hco Opps Aero I;61,31 M;1,02;;;940,42 K;Fundo de Tijolo;Logístico / Indústria / Galpões
-2026-05-07;HRES11;Fii Hire Residencial I;56,70 M;0,98;28,22;12,44;169,53 K;Fundo de Desenvolvimento;Híbrido
-2026-05-07;RFOF11;Rb Capital I Fundo De Fundos;55,27 M;0,83;13,01;11,58;633,03 K;Fundo de Fundos;Títulos e Valores Mobiliários
-2026-05-07;VANG11;Vang Infra;50,50 M;0,99;11,96;8,48;886,01 K;Outro;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;EMET11;Emet Multiestratégia Fii;49,68 M;0,93;12,36;5,8;700,12 K;Fundo Misto;Híbrido
-2026-05-07;OGIN11;Órama Fic Fi-Infra;44,77 M;0,78;13,22;8,97;107,99 K;Fundo de Papel;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;ASRF11;Asa Retrofits I Fundo De Investimento Imobiliário;38,34 M;1,14;;;194,24 K;Fundo de Desenvolvimento;Híbrido
-2026-05-07;PNPR11;Panorama Properties;36,70 M;1,13;;1,16;1,67 M;Fundo de Desenvolvimento;Híbrido
-2026-05-07;EIRA11;Aroeira;35,98 M;1,01;;;185,28 K;Fundo de Papel;Híbrido
-2026-05-07;PRIF11;Pátria Crédito Infra;35,42 M;1,0;12,16;10,36;473,79 K;Fundo Misto;Fundo de Infraestrutura (FI-Infra)
-2026-05-07;ERCR11;Estoque Residencial E Comercial Rj;35,38 M;0,37;;5,97;1,51 M;Fundo de Tijolo;Híbrido
-2026-05-07;BMLT11;Permuta Financeira Lote5;32,02 M;0,99;;;147,82 K;Fundo de Tijolo;Híbrido
-2026-05-07;EDGE11;Edge Fundo De Investimento Imobiliário;14,01 M;0,87;7,39;7,39;259,49 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;KNCR11;Kinea Rendimentos Imobiliários Fundos;10,96 B;1,04;13,71;11,39;18,38 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;ISNT11;Itaú Isento Março 28 Fic Fi-Infra;7,62 B;1,01;;;11,59 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;KNIP11;Kinea Índice De Preços Fundo;7,48 B;1,01;10,09;11,77;11,34 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;HGLG11;Pátria Log;7,03 B;0,94;8,46;8,6;15,89 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;ISEN11;Itaú Isento Março 29 Fic Fi De Infraestrutura;6,74 B;1,01;;;4,68 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;XPML11;Xp Malls Fundos;6,47 B;0,99;10,07;8,8;17,11 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;TRXF11;Trx Real Estate;6,24 B;0,92;12,86;10,57;21,31 M;Fundo de Tijolo;Híbrido
+2026-05-08;BTLG11;Btg Pactual Logística;5,46 B;1,01;9,15;8,77;10,64 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;KNRI11;Kinea Renda Imobiliária;4,61 B;1,03;7,4;7,59;6,27 M;Fundo de Tijolo;Híbrido
+2026-05-08;XPLG11;Xp Log;4,45 B;0,94;9,84;8,63;5,37 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;MXRF11;Maxi Renda;4,32 B;1,06;12,03;11,69;13,42 M;Fundo de Papel;Híbrido
+2026-05-08;FTCE11B;Opportunity;3,90 B;0,96;;4,78;2,92 M;Outro;Híbrido
+2026-05-08;ISTT11;Itaú Isento Setembro 29 Fic Fi De Infra Rf;3,71 B;1,02;;;3,62 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;VISC11;Vinci Shopping Centers;3,36 B;0,96;8,82;8,41;6,85 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;CPTS11;Capitania Securities Ii;3,28 B;0,86;13,62;12,21;7,51 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;KNHY11;Kinea High Yield Cri;3,09 B;1,01;13,28;13,18;2,40 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;HGRU11;Pátria Renda Urbana;3,00 B;1,02;9,48;9,1;3,65 M;Fundo Misto;Híbrido
+2026-05-08;IRIM11;Iridium;2,94 B;0,79;14,58;11,76;3,75 M;Fundo de Papel;Híbrido
+2026-05-08;KDIF11;Kinea Fi - Infra;2,93 B;1,02;12,19;9,94;3,21 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;PVBI11;Vbi Prime Properties;2,93 B;0,72;7,03;7,61;4,78 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;CDII11;Sparta Infra Cdi Fic Fi-Infra;2,81 B;1,0;17,18;14,03;6,18 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;GARE11;Guardian Real Estate;2,73 B;0,88;12,01;10,77;14,04 M;Fundo de Tijolo;Híbrido
+2026-05-08;HGBS11;Hedge Brasil Shopping;2,67 B;0,99;9,26;8,29;4,95 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;TGAR11;Tg Ativo Real;2,61 B;0,59;16,77;13,14;7,87 M;Fundo de Desenvolvimento;Híbrido
+2026-05-08;GGRC11;Zagros Renda Imobiliária;2,39 B;0,92;11,69;10,01;8,79 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;RECR11;Fii Rec Recebíveis Imobiliários;2,35 B;0,94;14,38;13,31;2,67 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;HCTR11;Hectare Ce;2,34 B;0,16;21,21;14,73;850,78 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;BRCR11;Btg Pactual Corporate Office;2,28 B;0,56;10,33;9,7;1,16 M;Fundo de Tijolo;Híbrido
+2026-05-08;HSML11;Hsi Malls;2,22 B;0,89;8,87;9,09;4,07 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;KNUQ11;Kinea Unique Hy Cdi Fundo De Investimento Imob;2,19 B;1,03;14,65;11,17;4,00 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;KNCA11;Kinea Crédito Agro Fiagro;2,19 B;0,93;14,01;13,66;3,08 M;Outro;Fiagros
+2026-05-08;JSRE11;Js Real Estate Multigestão - Fii;2,12 B;0,61;9,32;8,16;2,16 M;Outro;Híbrido
+2026-05-08;BRCO11;Bresco Logística;2,10 B;1,02;9,08;8,49;10,42 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;JURO11;Sparta Infra Fic Fi-Infra;2,09 B;0,99;11,69;13,25;3,73 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;GZIT11;Gazit Malls;2,04 B;0,48;19,53;12,38;477,23 K;Fundo Misto;Híbrido
+2026-05-08;BTHF11;Btg Pactual Real Estate Hedge Fund;2,03 B;0,95;12,17;7,42;2,85 M;Fundo de Papel;Híbrido
+2026-05-08;KNHF11;Kinea Hedge Fund Fdo De Inv Imob;1,99 B;0,97;12,21;9,59;3,68 M;Fundo Misto;Híbrido
+2026-05-08;LVBI11;Vbi Logístico;1,94 B;0,91;8,19;8,58;3,02 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;HFOF11;Hedge Top;1,78 B;0,85;10,21;9,95;2,40 M;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;KNSC11;Kinea Securities;1,78 B;1,04;12,34;12,35;4,74 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PFIN11;Perfin Apollo Energia Fip Em Infraestrutura;1,76 B;0,61;50,23;6,44;2,48 M;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;HGRE11;Patria Escritórios;1,74 B;0,89;9,51;8,68;2,11 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;RZTR11;Riza Terrax;1,73 B;1,0;13,19;12,54;2,65 M;Outro;Híbrido
+2026-05-08;MCLO11;Mauá Capital Logística;1,72 B;0,71;11,53;7,96;1,36 M;Outro;Logístico / Indústria / Galpões
+2026-05-08;VILG11;Vinci Logística;1,69 B;0,91;8,77;8,29;3,16 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;RBVA11;Rio Bravo Renda Varejo;1,67 B;0,91;11,05;11,54;1,67 M;Fundo de Tijolo;Híbrido
+2026-05-08;TVRI11;Tivio Renda Imobiliária Fundo De Investimento Imob;1,66 B;0,91;13,29;12,12;1,06 M;Fundo de Tijolo;Agências Bancárias
+2026-05-08;RURA11;Itaú Asset Rural Fiagro;1,65 B;0,86;14,94;12,43;3,42 M;Outro;Fiagros
+2026-05-08;PMLL11;Genial Malls;1,64 B;0,92;10,04;8,74;4,59 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;MCCI11;Mauá Capital Recebíveis Imobiliários;1,61 B;1,02;12,01;11,88;4,56 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RBRR11;Rbr Rendimento High Grade;1,59 B;0,87;11,76;11,36;3,96 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PCIP11;Patria Crédito Imobiliário Índice De Preços Fii;1,58 B;0,92;6,91;3,13;2,80 M;Fundo de Papel;Híbrido
+2026-05-08;IFRA11;Itau Fdo Inv Cotas Fdo Incent De Inv Infr. Rf Cp;1,55 B;0,98;12,03;11,0;1,96 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;HGCR11;Cghg Recebíveis Imobiliários;1,52 B;1,0;12,26;12,05;3,58 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;BDIF11;Fundo Em Infraestrutura Btg Pactual Dívida Infra;1,51 B;0,9;12,92;12,39;2,93 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;ALZR11;Alianza Trust Renda Imobiliária;1,49 B;1,01;9,43;8,98;2,09 M;Fundo de Tijolo;Híbrido
+2026-05-08;RBRX11;Rbr Plus Multiestratégia Real Estate;1,44 B;0,88;12,47;12,68;12,91 M;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;VGIR11;Valora Re Iii;1,43 B;1,02;15,38;13,11;4,14 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;VGHF11;Valora Hedge;1,42 B;0,7;15,54;13,4;2,74 M;Fundo de Papel;Híbrido
+2026-05-08;HSLG11;Hsi Logística;1,39 B;0,85;8,95;9,15;822,16 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;VCJR11;Vectis Juros Real;1,39 B;0,84;13,55;12,58;2,46 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PSEC11;Vbi Reits Fof;1,38 B;0,79;13,83;11,58;2,34 M;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;DEVA11;Devant Recebíveis Imobiliários;1,38 B;0,23;19,77;15,01;523,95 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;VRTA11;Fator Verita;1,32 B;0,91;13,23;12,15;1,31 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;CPTI11;Capitânia Infra Fic Fi-Infra Rf Cp;1,28 B;0,94;14,16;12,28;2,64 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;BROF11;Brpr Corporate Offices;1,28 B;0,55;10,62;10,43;463,03 K;Fundo de Tijolo;Híbrido
+2026-05-08;RBRY11;Rbr Private Crédito Imobiliário;1,27 B;0,94;15,08;12,99;5,14 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;GTWR11;Green Towers;1,22 B;0,84;12,68;11,52;672,14 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;GSFI11;General Shop E Outlets Do Brasil;1,21 B;0,89;;;118,28 K;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;URPR11;Urca Prime Renda;1,21 B;0,27;16,01;16,0;517,37 K;Fundo de Papel;Outros
+2026-05-08;MCRE11;Mauá Capital Real Estate;1,14 B;0,95;13,65;12,94;3,07 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;BRZP11;Brz Infra Portos Fdo, Inv. Em Part. Infraestrutura;1,10 B;0,88;;;1,68 M;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;XPIE11;Xp Infra Ii Fdo De Inv Part Ie;1,09 B;0,68;13,26;8,26;922,96 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;CPSH11;Shoppings Aaa Fdo De Inv Imob;1,09 B;0,9;12,6;10,07;5,15 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;VGIP11;Valora Cri Índice De Preço;1,07 B;0,9;13,46;13,07;2,51 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;DIVS11;Sparta Infra Inflação Longa Fi-Infra;1,04 B;1,01;14,08;11,7;559,71 K;Fundo de Desenvolvimento;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;PICE11;Pátria Infraestrutura Energia;1,03 B;0,25;1,47;2,52;116,67 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;VGIA11;Valora Cra Fdo Inv Nas Cad Prod Agro;1,02 B;1,03;16,41;15,91;2,91 M;Outro;Fiagros
+2026-05-08;KORE11;Kinea Oportunidades Real Estate;1,02 B;0,68;17,17;11,7;2,08 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;IFRI11;Itaú Fic Fi Invest Finan Infra Cdi Rf Cp;1,02 B;0,99;15,7;10,8;1,15 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;KNOX11;Knox Debt Fdo. Invest. Part. Infraestrutura;1,01 B;1,01;5,56;4,97;445,61 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;BTCI11;Fii Btg Pactual Fundo De Cri;1,00 B;0,94;12,25;10,46;2,04 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RBRP11;Rbr Properties;994,38 M;0,63;9,28;8,33;1,29 M;Fundo de Tijolo;Outros
+2026-05-08;JCCJ11;Jhsf Capital Jardins;983,48 M;0,78;7,33;2,38;292,83 K;Fundo de Fundos;Fundo de Fundos
+2026-05-08;BBIG11;Fii Bbig;946,52 M;0,73;13,56;10,68;740,76 K;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;BPML11;Btg Pactual Shoppings;922,56 M;0,75;15,47;8,35;651,31 K;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;SNEL11;Suno Energias Limpas;899,33 M;1,05;14,04;10,09;3,92 M;Outro;Outros
+2026-05-08;VINO11;Vinci Offices;816,54 M;0,51;12,02;9,98;631,98 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;RZAK11;Riza Akin;778,30 M;0,97;15,56;14,98;1,39 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;HABT11;Habitat Ii;777,11 M;0,79;15,9;14,84;1,06 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PQAG11;Parque Anhanguera;777,09 M;0,95;10,92;8,98;691,39 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;XPCI11;Xp Credito Imobiliário;771,39 M;0,94;13,13;12,51;1,74 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RECT11;Fii Rec Renda Imobiliária;766,84 M;0,43;13,92;11,2;450,99 K;Outro;Híbrido
+2026-05-08;RVBI11;Vbi Reits Fof (Old);760,04 M;0,81;6,97;11,14;1,18 M;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;XPIN11;Invista Industrial;751,80 M;0,65;14,12;9,98;920,05 K;Fundo de Tijolo;Outros
+2026-05-08;RCRB11;Rio Bravo Renda Corporativa;735,57 M;0,72;7,49;7,25;1,37 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;JSAF11;Js Ativos Financeiros;725,67 M;0,83;12,97;10,68;1,58 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;CCME11;Canuma Capital Multiestratégia;720,78 M;0,85;11,28;8,3;276,17 K;Fundo Misto;Outros
+2026-05-08;BTAL11;Btg Pactual Agro Logística;692,45 M;0,78;12,6;10,64;768,06 K;Fundo de Tijolo;Outros
+2026-05-08;RZAG11;Fdo Inv Cadeias Prod Agro Riza Agro;678,87 M;0,91;16,56;12,78;1,43 M;Outro;Fiagros
+2026-05-08;RBRL11;Rbr Log;677,48 M;0,84;11,33;9,73;2,15 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;CPUR11;Classe Única Do Capitânia Hbc Renda Urbana;665,11 M;1,04;10,92;9,33;12,34 M;Outro;Híbrido
+2026-05-08;SNAG11;Suno Agro;654,38 M;1,05;14,46;11,05;2,30 M;Outro;Fiagros
+2026-05-08;KFOF11;Kinea Fii;654,10 M;0,9;11,22;10,28;1,03 M;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;MFII11;Mérito Desenvolvimento Imobiliário;646,54 M;0,63;21,29;13,8;2,42 M;Fundo de Desenvolvimento;Híbrido
+2026-05-08;TRBL11;Fdo De Invest Imob Tellus Rio Bravo Renda Logistic;625,33 M;0,93;10,36;9,77;1,09 M;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;TJKB11;Tjk Renda Imobiliária;604,56 M;0,49;13,49;10,43;879,12 K;Outro;Lajes Corporativas
+2026-05-08;VIGT11;Vinci Energia;602,20 M;0,76;4,53;8,4;678,32 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;ITRI11;Itaú Total Return Fii;598,97 M;0,91;12,04;10,47;1,03 M;Fundo Misto;Títulos e Valores Mobiliários
+2026-05-08;FATN11;Athena I;579,69 M;0,9;11,08;10,39;1,90 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;BODB11;Bocaina Infra;562,37 M;0,92;14,66;10,07;1,16 M;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;BCRI11;Banestes Recebíveis Imobiliários;533,54 M;0,73;15,94;13,62;431,06 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RZAT11;Riza Arctium Real Estate;533,31 M;0,79;12,43;14,17;655,88 K;Fundo de Tijolo;Híbrido
+2026-05-08;IBBP11;Invista Brazilian Business Park Fii;526,39 M;0,82;10,82;10,29;1,29 M;Fundo Misto;Logístico / Indústria / Galpões
+2026-05-08;CPOF11;Capitânia Office Fii - Fdo De Inv Imob;507,56 M;1,03;5,22;7,3;1,56 M;Fundo Misto;Híbrido
+2026-05-08;BINC11;Bradesco Fic Rf Infra Cdi Créd Priv;488,10 M;1,0;15,88;9,29;744,51 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;TOPP11;Rbr Top Offices Fii;481,17 M;0,62;15,27;7,76;612,01 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;TEPP11;Tellus Properties;480,27 M;0,91;12,28;9,58;1,92 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;INLG11;Inter Logístico Fii;479,81 M;0,66;12,04;9,85;321,35 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;VCRA11;Vectis Datagro Cr Agr;472,12 M;0,62;17,37;14,46;544,94 K;Outro;Fiagros
+2026-05-08;ADSH11;Ad Shopping Fundo De Investimento Imobiliário;466,70 M;1,05;0,75;0,75;26,02 M;Fundo Misto;Shoppings / Varejo
+2026-05-08;SARE11;Santander Renda De Aluguéis;464,92 M;0,94;1,09;8,45;831,29 K;Fundo Misto;Híbrido
+2026-05-08;HREC11;Hedge Recebíveis;459,80 M;0,93;12,24;11,73;170,58 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;CACR11;Cartesia Recebíveis Imobiliários;458,75 M;0,34;44,73;16,65;1,60 M;Fundo de Papel;Híbrido
+2026-05-08;AFHI11;Af Invest Cri;455,47 M;1,02;12,4;12,07;743,29 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;JMBI11;Jivemaua Bossanova;445,57 M;0,88;16,28;9,31;922,59 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;VRTM11;Fator Verità Multiestratégia;445,39 M;0,76;14,9;9,39;203,60 K;Outro;Híbrido
+2026-05-08;PATL11;Pátria Logística;444,52 M;0,73;10,93;10,65;495,33 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;XPCA11;Xp Crédito Agrícola;443,60 M;0,84;16,3;14,82;938,54 K;Outro;Fiagros
+2026-05-08;BDIV11;Btg Pactual Infraestrutura Dividendos;434,37 M;0,91;17,26;17,96;407,59 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;FCFL11;Campus Faria Lima;432,66 M;1,0;8,79;8,45;120,30 K;Fundo de Tijolo;Educacional
+2026-05-08;HTMX11;Fii Hotel Maxinvest;432,47 M;0,91;11,85;9,82;372,24 K;Fundo de Tijolo;Hotéis
+2026-05-08;ENDD11;Endurance Debt;429,77 M;1,09;9,12;7,14;305,82 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;FGAA11;Fg Agro Fdo De Invest;425,61 M;0,96;15,78;15,43;868,98 K;Outro;Fiagros
+2026-05-08;RINV11;Real Investor;423,38 M;1,01;12,04;10,76;285,97 K;Outro;Títulos e Valores Mobiliários
+2026-05-08;CLIN11;Clave Índices De Preços;423,01 M;0,96;12,95;9,64;1,02 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;AZIN11;Az Quest Infra-Yield Ii Fip-Ie;419,00 M;1,04;18,73;12,76;731,70 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;SNCI11;Suno Recebíveis Imobiliários;409,41 M;0,94;13,13;11,2;453,09 K;Outro;Títulos e Valores Mobiliários
+2026-05-08;KNDI11;Kinea Estrategia Infra;406,00 M;1,01;15,0;8,15;1,14 M;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;FIIB11;Industrial Do Brasil;404,77 M;0,78;8,99;8,64;288,01 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;TRXB11;Trx Real Estate Ii;401,32 M;1,82;15,56;12,08;5,76 M;Fundo de Desenvolvimento;Híbrido
+2026-05-08;ICRI11;Itaú Crédito Imobiliário Ipca;394,40 M;0,98;11,93;12,62;764,90 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;LASC11;Legatus Shoppings;387,98 M;0,83;10,81;8,66;3,21 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;BCIA11;Bradesco Carteira Imobiliária Ativa;383,87 M;0,91;10,88;10,22;607,64 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;BTRA11;Btg Pactual Terras Agrícolas;381,69 M;0,55;11,18;8,39;230,90 K;Outro;Fiagros
+2026-05-08;BBGO11;Bb Fundo De Invest De Crédito Fiagro;377,31 M;0,79;14,57;12,91;247,33 K;Outro;Fiagros
+2026-05-08;CXCO11;Caixa Imóveis Corporativos;374,90 M;0,77;12,29;11,11;146,97 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;AJFI11;Aj Malls;372,20 M;0,75;7,59;6,72;157,65 K;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;LIFE11;Life Capital;368,11 M;0,9;17,22;14,95;1,21 M;Outro;Outros
+2026-05-08;NEWL11;Newport Logística;366,57 M;0,81;11,05;11,13;231,88 K;Fundo de Tijolo;Híbrido
+2026-05-08;AIEC11;Autonomy Edifícios Corporativos;366,25 M;0,8;6,64;12,22;3,54 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;KISU11;Klima Fic Fundo Imobiliário Suno 30;366,21 M;0,82;12,43;10,59;478,18 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;BARI11;Barigui Rendimentos Imobiliários I;363,70 M;1,0;4,77;12,3;1,01 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PLAG11;Vbi Agro;360,48 M;0,97;9,75;10,78;11,16 M;Fundo Misto;Outros
+2026-05-08;AZPL11;Az Quest Panorama Logística Fii;360,34 M;0,9;12,92;10,21;422,46 K;Fundo Misto;Logístico / Indústria / Galpões
+2026-05-08;HPDP11;Hedge Shopping Parque Dom Pedro;357,49 M;0,82;8,62;6,78;5,47 M;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;PORD11;Polo Recebíveis Imobiliários Ii;355,59 M;0,88;14,02;13,18;488,25 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;MANA11;Manatí Capital Hedge Fund;354,07 M;1,0;14,01;12,34;1,24 M;Outro;Títulos e Valores Mobiliários
+2026-05-08;RPRI11;Rbr Premium Recebíveis Imobiliários;350,17 M;0,82;14,36;13,24;588,65 K;Fundo de Papel;Híbrido
+2026-05-08;SNFF11;Sunofofi - Fii;349,07 M;0,86;13,13;9,76;401,42 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;XPSF11;Xp Selection Fundo De Fundos;348,52 M;0,83;11,98;11,42;347,80 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;CYCR11;Cyrela Crédito;343,47 M;0,95;14,39;12,17;661,83 K;Fundo de Papel;Outros
+2026-05-08;KCRE11;Kinea Creditas;340,23 M;0,99;12,41;11,79;339,08 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PPEI11;Prisma Proton Energia;340,00 M;1,11;14,9;9,32;261,32 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;OUJP11;Ourinvest Jpp;327,86 M;0,86;15,26;13,67;353,12 K;Fundo de Papel;Híbrido
+2026-05-08;TRXY11;Trx Hedge Fund;316,10 M;0,97;15,61;7,99;175,95 K;Outro;Híbrido
+2026-05-08;HDOF11;Hedge Desenvolvimento Logístico;312,76 M;0,98;;;1,41 M;Fundo de Desenvolvimento;Lajes Corporativas
+2026-05-08;EGAF11;Ecoagro I Fdo Inv Cadeias Prod Agroind;310,62 M;0,94;18,34;16,27;1,08 M;Outro;Fiagros
+2026-05-08;WHGR11;Whg Real Estate;306,60 M;0,96;12,97;11,65;261,89 K;Fundo Misto;Híbrido
+2026-05-08;VGRI11;Valora Renda Imob Fundo De Inves Imob;306,59 M;0,74;20,96;17,45;1,13 M;Fundo de Tijolo;Híbrido
+2026-05-08;VSLH11;Versalhes Recebíveis Imobiliários;305,37 M;0,18;19,24;12,8;177,32 K;Fundo de Papel;Outros
+2026-05-08;NMKS11;Nm Ksm Log;302,93 M;1,06;;;1,27 M;Fundo de Papel;Logístico / Indústria / Galpões
+2026-05-08;VPPR11;V2 Prime Properties;302,67 M;0,53;;7,55;194,73 K;Fundo Misto;Outros
+2026-05-08;BBFO11;Bb Fundo De Fundos;302,43 M;0,95;13,26;11,44;542,99 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;SAPI11;Santander Papéis Imobiliários;295,84 M;0,93;15,55;9,76;312,71 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;XPID11;Xp Infra Debêntures;282,47 M;0,55;14,85;13,11;177,80 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;BPFF11;Brasil Plural Absoluto;279,19 M;0,86;6,53;10,79;305,22 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;BODI11;Bocaina Infra Cdi Fic Fi Infra Rf;278,01 M;1,0;2,21;2,21;259,98 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;GAME11;Guardian Multiestratégia I;273,65 M;0,93;12,93;10,81;227,93 K;Fundo de Papel;Outros
+2026-05-08;HGPO11;Cshg Prime Offices;270,34 M;0,99;;14,66;122,97 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;RBFM11;Rio Bravo Multiestratégia Fii;244,43 M;0,81;4,07;4,07;607,00 K;Fundo Misto;Híbrido
+2026-05-08;CRAA11;Sparta Fiagro Fdo Inv Nas Cad Prod Agro;240,86 M;1,01;14,5;13,33;653,41 K;Outro;Fiagros
+2026-05-08;GRUL11;Icatu Vanguarda Gru Logístico;238,15 M;0,93;11,93;9,26;286,07 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;RBED11;Rio Bravo Renda Educacional;235,52 M;0,94;;10,26;268,63 K;Fundo de Tijolo;Educacional
+2026-05-08;COPN11;Copérnico Fip Infra;232,52 M;0,5;;0,66;316,63 K;Outro;Fundo de Investimentos em Participações (FIP)
+2026-05-08;CJCT11;Cidade Jardim Continental Tower;231,52 M;0,88;4,49;2,67;640,14 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;CXAG11;Caixa Agências;231,30 M;0,69;11,92;11,29;213,26 K;Fundo de Tijolo;Agências Bancárias
+2026-05-08;VXXV11;Vx Xvi;227,09 M;1,59;;5,49;18,88 M;Fundo de Desenvolvimento;Outros
+2026-05-08;HSAF11;Hsi Ativos Financeiros;225,02 M;0,91;14,08;13,3;1,02 M;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;NSLU11;Hospital Nossa Senhora De Lourdes;224,39 M;1,08;16,28;10,07;120,83 K;Fundo de Tijolo;Hospitalar
+2026-05-08;RDIV11;Rbr Desenvolvimento Iv;223,66 M;1,01;;;386,79 K;Fundo de Papel;Híbrido
+2026-05-08;BLMG11;Bluemacaw Logística;220,76 M;0,7;13,69;11,59;279,36 K;Fundo de Tijolo;Outros
+2026-05-08;HOFC11;Hedge Office Income;217,28 M;0,59;;8,18;108,99 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;JSCR11;Js Recebíveis Imobiliários;209,84 M;0,87;13,85;10,04;328,53 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;JGPX11;Jgp Crédito;208,20 M;0,68;17,29;14,43;328,98 K;Outro;Fiagros
+2026-05-08;VCRR11;Vectis Renda Residencial;208,16 M;0,59;9,07;9,67;289,60 K;Fundo de Tijolo;Outros
+2026-05-08;AAZQ11;Az Quest Fiagro;207,80 M;0,94;16,51;16,41;339,86 K;Outro;Fiagros
+2026-05-08;VIUR11;Vinci Imóveis Urbanos;206,25 M;0,35;28,86;11,11;987,30 K;Fundo Misto;Outros
+2026-05-08;BIDB11;Inter Fi-Infra;205,20 M;0,97;15,29;13,55;324,51 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;BLCA11;Bluemacaw Catuaí Triple A;204,56 M;0,77;6,5;8,61;1,47 M;Fundo Misto;Lajes Corporativas
+2026-05-08;HGFF11;Patria Imobiliário Fof;203,82 M;0,84;7,89;10,06;551,19 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;KOPA11;Kinea Oportunidades Agro I;202,69 M;0,9;24,22;10,5;204,87 K;Outro;Fiagros
+2026-05-08;FIGS11;General Shopping Fundo De Investimento;199,56 M;0,73;11,28;9,0;125,03 K;Fundo de Tijolo;Shoppings / Varejo
+2026-05-08;CPTR11;Capitania Agro Strategies;198,92 M;0,83;15,81;12,6;247,58 K;Outro;Fiagros
+2026-05-08;VCRI11;Vinci Credit;195,70 M;0,79;14,89;12,92;439,94 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;VINF11;Vinland Infraestrutura Fi Fif Debentures Infra;192,26 M;0,94;8,67;3,39;204,94 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;SPXS11;Spx Real Estate Multiestratégia;190,66 M;0,9;14,46;10,73;651,77 K;Outro;Híbrido
+2026-05-08;KIVO11;Kilima Volkano Recebíveis Imobiliários;190,22 M;0,73;18,02;15,63;541,39 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RBHG11;Rio Bravo Crédito Imobiliário High Grade;187,84 M;0,78;14,32;13,96;261,61 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;CYLD11;Cyrela Desenvolvimento Logístico Fii;187,63 M;0,65;;;106,44 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;AGRX11;Exes Araguaia;185,82 M;0,86;15,02;12,58;299,88 K;Outro;Fiagros
+2026-05-08;FIIP11;Rb Capital Renda I;185,19 M;0,69;12,15;9,84;505,14 K;Fundo de Tijolo;Híbrido
+2026-05-08;FIIP11B;Rb Capital Renda I (Old);184,00 M;0,81;;9,98;598,24 K;Fundo de Tijolo;Híbrido
+2026-05-08;HBCR11;Hbc Renda Urbana;183,03 M;1,21;10,8;9,74;5,75 M;Fundo Misto;Lajes Corporativas
+2026-05-08;ALZC11;Fii Alianzac;182,99 M;0,82;16,11;13,7;162,63 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PLCR11;Plural Recebíveis;175,91 M;0,94;4,48;11,98;612,26 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;ARRI11;Átrio Reit Recebíveis Imobiliários;173,65 M;0,64;19,4;14,62;383,35 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RBHY11;Rio Bravo Crédito Imobiliário High Yield;173,50 M;0,85;16,19;14,71;399,54 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;RZLC11;Riza Lecci;159,60 M;1,01;11,14;4,99;1,30 M;Fundo de Papel;Outros
+2026-05-08;GCRA11;Galápagos Recebíveis Do Agronegócio;153,88 M;0,62;14,88;14,93;283,66 K;Outro;Fiagros
+2026-05-08;FYTO11;Nch Brasil Recebíveis Imobiliários;151,65 M;0,88;14,23;14,05;142,19 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;BICE11;Brio Crédito Estruturado;149,43 M;0,68;7,38;8,28;1,65 M;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;NCHB11;Nch Brasil Recebíveis Imobiliários (Old);148,98 M;0,82;;11,77;109,74 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;BTML11;Barra Malls Fundo De Investimento Imobiliário;145,58 M;0,67;11,83;11,34;11,66 M;Fundo de Tijolo;Híbrido
+2026-05-08;SPDE11;Whg Finvest Sp Realty;144,12 M;0,69;;;138,33 K;Fundo de Desenvolvimento;Residencial
+2026-05-08;OUFF11;Ourinvest;142,52 M;0,78;;10,19;264,30 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;VVCO11;V2 Edifícios Corporativos;141,94 M;0,97;;1,79;5,58 M;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;EXES11;Exes;139,74 M;0,97;16,28;10,62;135,84 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;PMIS11;Paramis Hedge Fund;139,30 M;0,85;14,32;13,72;294,90 K;Outro;Híbrido
+2026-05-08;CXRI11;Caixa Rio Bravo;136,68 M;0,75;11,14;9,54;157,08 K;Fundo de Fundos;Híbrido
+2026-05-08;EQIN11;Nch Eqi High Yield Recebíveis Imobiliários;135,10 M;1,0;;25,77;365,15 K;Fundo de Papel;Outros
+2026-05-08;BRIX11;Brix;133,78 M;1,49;;;195,80 K;Fundo Misto;Outros
+2026-05-08;INRD11;Inter Residence;133,66 M;0,65;10,18;8,71;322,46 K;Fundo de Desenvolvimento;Residencial
+2026-05-08;GCRI11;Galapagos Recebíveis Imobiliários;131,09 M;0,76;14,77;14,26;300,97 K;Fundo de Papel;Títulos e Valores Mobiliários
+2026-05-08;NEXG11;Nex Crédito Fiagro Imobiliário;123,77 M;1,3;8,67;9,17;124,12 K;Fundo de Papel;Fiagros
+2026-05-08;SNFZ11;Suno Fazendas Fiagro – Imobiliário;119,35 M;0,99;11,61;6,11;399,65 K;Outro;Fiagros
+2026-05-08;RELG11;Rec Logística;115,60 M;0,84;12,73;8,23;299,68 K;Fundo Misto;Logístico / Indústria / Galpões
+2026-05-08;RSPD11;Rb Capital Desenvolvimento Residencial Iii;113,79 M;1,05;11,89;4,29;254,03 K;Fundo de Desenvolvimento;Outros
+2026-05-08;ALZM11;Alianza Multiestratégia;113,20 M;0,86;;9,55;205,61 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;NUIF11;Nu Fi-Infra;109,67 M;0,93;15,33;9,26;179,53 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;DVLP11;Speciale Real Estate Development;106,47 M;1,02;;;213,40 K;Fundo de Tijolo;Híbrido
+2026-05-08;SMRE11;Smart Real Estate;105,48 M;0,61;19,18;12,08;141,60 K;Outro;Outros
+2026-05-08;BIPD11;Brio Real Estate Iv Fii;105,12 M;1,04;6,98;4,82;155,08 K;Fundo Misto;Híbrido
+2026-05-08;MAXR11;Max Retail;105,02 M;0,63;6,95;11,61;243,35 K;Fundo de Tijolo;Outros
+2026-05-08;IAAG11;Inter Amerra - Fiagro;101,69 M;0,9;16,12;11,59;233,07 K;Outro;Fiagros
+2026-05-08;SUIN11;Sulamérica Infra Cdi Fi Fif Infra Renda Fixa;98,94 M;0,87;6,96;2,33;110,97 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;SPTW11;Sp Downtown Fundos;97,45 M;0,73;13,67;15,0;110,45 K;Fundo de Tijolo;Lajes Corporativas
+2026-05-08;DVFF11;Devant Fof Imobiliários;95,56 M;0,66;13,68;10,21;129,04 K;Fundo de Fundos;Híbrido
+2026-05-08;TMPS11;Itaú Tempus;93,71 M;0,8;13,23;9,37;246,61 K;Outro;Títulos e Valores Mobiliários
+2026-05-08;OIAG11;Ourinvest Innovation;88,50 M;0,94;14,97;13,74;142,10 K;Outro;Fiagros
+2026-05-08;ICNE11;Ícone Fii;84,72 M;1,37;14,08;22,51;1,00 M;Fundo de Desenvolvimento;Outros
+2026-05-08;RECM11;Rec Multiestratégia;81,09 M;0,78;19,34;13,47;376,94 K;Fundo de Papel;Híbrido
+2026-05-08;RBIF11;Rio Bravo Esg;77,98 M;0,86;15,79;9,8;255,17 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;LKDV11;Development V1;73,49 M;0,91;;;257,33 K;Fundo de Papel;Híbrido
+2026-05-08;SPGM11;Spgm;73,29 M;0,8;;;4,38 M;Fundo de Tijolo;Híbrido
+2026-05-08;ITIT11;Inter Teve Indice De Tijolo;72,16 M;0,96;9,6;9,2;170,52 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;SNID11;Suno Infra Debêntures Infra Renda Fixa Cp;71,67 M;1,12;13,42;11,98;198,08 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;SNME11;Suno Multiestratégia;70,44 M;1,0;15,22;9,69;143,95 K;Fundo Misto;Híbrido
+2026-05-08;CPFF11;Capitânia Reit Fof;67,46 M;1,12;;8,51;4,78 M;Fundo de Fundos;Híbrido
+2026-05-08;CCVA11;Canuma Capital Renda Varejo;64,14 M;0,87;1,5;1,5;175,12 K;Outro;Hospitalar
+2026-05-08;AERO11;Hco Opps Aero I;61,31 M;1,02;;;940,42 K;Fundo de Tijolo;Logístico / Indústria / Galpões
+2026-05-08;HRES11;Fii Hire Residencial I;56,70 M;0,98;28,22;12,44;169,53 K;Fundo de Desenvolvimento;Híbrido
+2026-05-08;RFOF11;Rb Capital I Fundo De Fundos;55,27 M;0,83;13,01;11,58;633,03 K;Fundo de Fundos;Títulos e Valores Mobiliários
+2026-05-08;VANG11;Vang Infra;50,50 M;0,98;12,08;8,48;886,01 K;Outro;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;EMET11;Emet Multiestratégia Fii;49,68 M;0,93;12,8;5,8;700,12 K;Fundo Misto;Híbrido
+2026-05-08;OGIN11;Órama Fic Fi-Infra;44,77 M;0,79;13,11;8,97;107,99 K;Fundo de Papel;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;ASRF11;Asa Retrofits I Fundo De Investimento Imobiliário;38,34 M;1,14;;;194,24 K;Fundo de Desenvolvimento;Híbrido
+2026-05-08;PNPR11;Panorama Properties;36,70 M;1,13;;1,16;1,67 M;Fundo de Desenvolvimento;Híbrido
+2026-05-08;EIRA11;Aroeira;35,98 M;1,01;1,11;1,11;185,28 K;Fundo de Papel;Híbrido
+2026-05-08;PRIF11;Pátria Crédito Infra;35,42 M;0,98;12,48;10,36;473,79 K;Fundo Misto;Fundo de Infraestrutura (FI-Infra)
+2026-05-08;ERCR11;Estoque Residencial E Comercial Rj;35,38 M;0,37;;5,97;1,51 M;Fundo de Tijolo;Híbrido
+2026-05-08;BMLT11;Permuta Financeira Lote5;32,02 M;0,99;;;147,82 K;Fundo de Tijolo;Híbrido
+2026-05-08;EDGE11;Edge Fundo De Investimento Imobiliário;14,01 M;0,87;7,39;7,39;259,49 K;Fundo de Papel;Títulos e Valores Mobiliários
